@@ -1,0 +1,23 @@
+[
+    {
+        "first_name": "Abdelrahman",
+        "last_name": "Saad",
+        "email": "abdo@email.com",
+        "password": "123",
+        "mobile_phone": "01141796824"
+    },
+    {
+        "first_name": "test1",
+        "last_name": "last test1",
+        "email": "test@mail.com",
+        "password": "123",
+        "mobile_phone": "01141796824"
+    },
+    {
+        "first_name": "mofasa",
+        "last_name": "lion",
+        "email": "lion",
+        "password": "123",
+        "mobile_phone": "01141796824"
+    }
+]
